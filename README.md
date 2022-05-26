@@ -1,7 +1,7 @@
 # Hi there! 👋
 
   
-<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif"> 
+<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"> 
 
 ### About Me 👧
 - 😄 My pronouns are [she/her/hers](https://lgbtlifecenter.org/pronouns/)
