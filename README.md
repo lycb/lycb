@@ -14,5 +14,5 @@
 <a href="https://www.github.com/lycb" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.12.0/github.svg" alt="github" height="30" width="30" /></a>&nbsp;
 
 ### Projects 👩🏻‍💻
-- 🚥 LY86-64: https://www.ly86-64.com/home
+- 🚥 LY86-64: https://www.ly86-64.com
 - 🤖 R2-D2 Password CLI Tool: https://r2d2.chaulyjenny.com/
