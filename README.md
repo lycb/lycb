@@ -9,9 +9,8 @@
 - 🌎 Talk to me in English, Tiếng Việt, 中文
 
 ### Connect 🔗
-<a href="https://www.chaulyjenny.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1077/1077063.png" alt="website" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/jenny-chau-ly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="https://www.github.com/lycb" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.12.0/github.svg" alt="github" height="30" width="30" /></a>&nbsp;
+<a href="https://www.chaulyjenny.com" target="blank"><img src="https://img.icons8.com/stickers/50/000000/domain.png"/></a>&nbsp;
+<a href="https://linkedin.com/in/jenny-chau-ly" target="blank"><img src="https://img.icons8.com/office/50/000000/linkedin.png"/></a>&nbsp;
 
 ### Projects 👩🏻‍💻
 - 🚥 LY86-64: https://www.ly86-64.com
